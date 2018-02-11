@@ -1,0 +1,9 @@
+misc_tools:
+  - fuse
+  - nfs-utils
+  - htop
+  - bind-utils
+  - libselinux-python
+  - util-linux-user
+  - ncdu
+  - lm_sensors

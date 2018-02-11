@@ -1,6 +1,7 @@
 # Ansible role 'ansible-role-misc-tools'
 
 An Ansible role for installing miscellaneous minor tools.
+This role is one of a few intended to replace my ansible-role-common role.
 
 ## Requirements
 This role is initially launched for RedHat family packages only. Feel free to contribute with equivalent

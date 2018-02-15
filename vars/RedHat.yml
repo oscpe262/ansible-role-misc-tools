@@ -7,3 +7,4 @@ misc_tools:
   - util-linux-user
   - ncdu
   - lm_sensors
+  - NetworkManager-tui

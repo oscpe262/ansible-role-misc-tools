@@ -4,6 +4,7 @@ misc_tools:
   - htop
   - bind-utils
   - libselinux-python
+  - util-linux-user
   - ncdu
   - lm_sensors
   - NetworkManager-tui

@@ -9,8 +9,7 @@
 
 - name: Ensure misc. useful tools are installed
   package:
-    name: '{{ item }}'
+    name: '{{ misc_tools }}'
     state: present
-  with_items: '{{ misc_tools }}'
 
 ...

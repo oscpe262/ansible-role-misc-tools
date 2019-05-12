@@ -1,9 +1,11 @@
+## roles/ansible-role-misc-tools/vars/RedHat.yml
+# epel 7 until epel 8 is relased
 misc_tools:
+  - 'https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm'
   - fuse
   - nfs-utils
   - htop
   - bind-utils
-  - libselinux-python
   - ncdu
   - lm_sensors
   - NetworkManager-tui

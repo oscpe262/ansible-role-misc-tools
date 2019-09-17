@@ -1,6 +1,8 @@
+## roles/ansible-role-misc-tools/vars/Fedora.yml
+---
 misc_tools:
   - fuse
-  - nfs-utils
+  #- nfs-utils
   - htop
   - bind-utils
   - libselinux-python
@@ -8,3 +10,5 @@ misc_tools:
   - ncdu
   - lm_sensors
   - NetworkManager-tui
+  - vim
+...

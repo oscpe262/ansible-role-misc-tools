@@ -1,0 +1,9 @@
+## roles/ansible-role-misc-tools/vars/Ubuntu.yml
+---
+misc_tools:
+  - fuse
+  - nfs-common
+  - htop
+  - bind9utils
+  - ncdu
+...

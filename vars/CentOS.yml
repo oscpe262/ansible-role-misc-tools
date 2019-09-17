@@ -1,0 +1,11 @@
+## roles/ansible-role-misc-tools/vars/RedHat.yml
+misc_tools:
+  - 'https://dl.fedoraproject.org/pub/epel/epel-release-latest-{{ ansible_distribution_major_version }}.noarch.rpm'
+  - fuse
+  - nfs-utils
+  - htop
+  - bind-utils
+  - ncdu
+  - lm_sensors
+  - NetworkManager-tui
+  - vim
